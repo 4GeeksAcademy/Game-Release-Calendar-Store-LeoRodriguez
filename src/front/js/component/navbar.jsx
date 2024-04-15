@@ -19,9 +19,6 @@ export const Navbar = () => {
 					<Link className="center-link" to="/stores">
 						<h4>STORES</h4>
 					</Link>
-					<Link className="center-link" to="/genres/action">
-						<h4>GAMES</h4>
-					</Link>
 				</div>
 
 
